@@ -1,0 +1,50 @@
+使用アセット
+Fantasy Skybox FREE　Render Knight
+https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+
+Legacy Particle Pack　Unity Technologies
+https://assetstore.unity.com/packages/vfx/particles/legacy-particle-pack-73777
+
+LowPoly Water　Ebru Dogan
+https://assetstore.unity.com/packages/tools/particles-effects/lowpoly-water-107563
+
+Mountain Terrain, Rocks and Tree　Jermesa Studio
+https://assetstore.unity.com/packages/3d/environments/landscapes/mountain-terrain-rocks-and-tree-97905
+
+Poly Angel - Mini Pirates Island　Poly Angel
+https://assetstore.unity.com/packages/3d/vehicles/sea/poly-angel-mini-pirates-island-267015
+
+Procedural Terrain Painter　Staggart Creations
+https://assetstore.unity.com/packages/tools/terrain/procedural-terrain-painter-188357
+
+Realistic Terrain Textures Lite　ALP
+https://assetstore.unity.com/packages/2d/textures-materials/nature/realistic-terrain-textures-lite-279940
+
+Tree Collection Pack 2017　ALIyerEdon
+https://assetstore.unity.com/packages/3d/vegetation/trees/tree-collection-pack-2017-76974
+
+
+VILLAGE HOUSES PACK　GBAndrewGB
+https://assetstore.unity.com/packages/3d/characters/village-houses-pack-63695
+
+
+使用音素材
+効果音：Springin Sound Stock
+爆発.mp3
+爆発２.mp3
+大砲２.mp3
+https://www.springin.org/sound-stock/category/battle/page/4/
+
+波の音：VSQ plus+
+VSQSE_1189_wave_35.mp3
+https://vsq.co.jp/plus/?s=%E6%B3%A2%E3%80%8035
+
+DOVA-SYNDROME
+Age_of_Discovery.mp3
+https://dova-s.jp/bgm/play1291.html
+七つの海を越えて_2.mp3
+https://dova-s.jp/bgm/play18101.html
+残念でした….mp3
+https://dova-s.jp/bgm/play18088.html
+ビクトリートンカツ.mp3
+https://dova-s.jp/bgm/play11358.html
